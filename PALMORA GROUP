@@ -1,0 +1,12 @@
+In response to recent concerns and public criticism around gender inequality at Palmoria Group,
+this report presents a thorough analysis of the company’s human resource data across its three operational regions.
+Commissioned by the CHRO, Mr. Yunus Shofoluwe, this analysis aims to uncover disparities in workforce representation, pay structure,
+and performance evaluations with a particular focus on gender.
+Key data cleaning steps were taken to ensure accuracy:
+ • Employees with missing salary data (no longer with the company) were excluded.
+ • Rows with missing department names were removed.
+ • Missing gender values were standardized to “Undisclosed” to maintain inclusiveness.
+Through visual exploration using Power BI, the analysis revealed:
+ • A noticeable gender imbalance across departments and regions, with some units entirely male-dominated.
+ • Signs of gender related performance rating gaps, which may point to unconscious bias in evaluations.
+ • A clear gender pay gap, particularly within certain departments such as Engineering and Procurement.
